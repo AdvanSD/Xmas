@@ -1,4 +1,5 @@
-# Xmas
+# Merry Christmas & Happy New Year
+
 ```python
 from Christmas.Props import ChristmasTree
 from Christmas.TreeDecorators import Bubbles, Lights, TreeTopper
